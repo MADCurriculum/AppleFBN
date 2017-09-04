@@ -1,0 +1,6 @@
+framework module Pods_AppleFBNUITests {
+  umbrella header "Pods-AppleFBNUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
